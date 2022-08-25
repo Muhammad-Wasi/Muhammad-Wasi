@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad-Wasi
-- 👀 I’m interested in React Native And NodeJS work.
+- 👀 I’m interested in MERN and React Native work.
 - 🌱 I’m currently learning React Native Testing.
 - 💞️ I’m looking to collaborate on React Native.
 - 📫 How to reach me wasi.ayub00@gmail.com
